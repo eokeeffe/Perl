@@ -1,0 +1,10 @@
+Monty Dhillon;12/12/2012;$345.00;AmEx:3788-223979-87190
+Sadie Tedford;04/09/2012;$625.72;MC:5531-1775-6491-1439
+Desire Grasser;05/03/2000;$ 14.09;Cash
+Shaun Pontes;06/25/2002;$23.10;Cash
+Janeth Elledge;03/03/2011;$23.87;Cash
+Darryl Heuer;09/08/2001;$41.22;Visa:4485-1211-6212-3996
+Natisha Stringham;08/06/2007;$63.00;Cash
+Kati Redington;12/10/2004;$63.00;MC:5488-8922-2903-1448
+Ozella Schlabach;04/16/2008;$300.04;MC:5389-5647-6611-4289
+Gricelda Harward;03/07/2005;$571.03;Visa:4916-8300-0470-9486
